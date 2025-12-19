@@ -1,0 +1,78 @@
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.026100000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.131124616e+02 +4.157224616e+02 +4.157224616e+02
+10 0 +3.043368400e+02 +4.069468400e+02 +4.069468400e+02
+20 0 +2.559226650e+02 +3.585326650e+02 +3.585326650e+02
+156 0 +2.559226650e+02 +3.585326650e+02 +3.585326650e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.330000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.422558314e+02 +4.355558314e+02 +4.355558314e+02
+2 0 +3.251624714e+02 +4.184624714e+02 +4.184624714e+02
+10 0 +2.980181318e+02 +3.913181318e+02 +3.913181318e+02
+38 0 +2.809084365e+02 +3.742084365e+02 +3.742084365e+02
+192 0 +2.782508081e+02 +3.715508081e+02 +3.715508081e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.364000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.271130175e+02 +3.407530175e+02 +3.407530175e+02
+4 0 +3.022607982e+02 +3.159007982e+02 +3.159007982e+02
+21 0 +2.631239536e+02 +2.767639536e+02 +2.767639536e+02
+156 0 +2.631239536e+02 +2.767639536e+02 +2.767639536e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.948000000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.812063346e+02 +5.760063346e+02 +5.760063346e+02
+2 0 +3.429253220e+02 +5.377253220e+02 +5.377253220e+02
+3 0 +3.002620549e+02 +4.950620549e+02 +4.950620549e+02
+13 0 +2.678937265e+02 +4.626937265e+02 +4.626937265e+02
+156 0 +2.578299840e+02 +4.526299840e+02 +4.526299840e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.335900000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.082410013e+02 +1.746510013e+02 +1.746510013e+02
+9 0 +2.520568472e+02 +1.184668472e+02 +1.184668472e+02
+156 0 +2.520568472e+02 +1.184668472e+02 +1.184668472e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.000000000000e+03) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.141029224e+02 +1.314102922e+03 +1.314102922e+03
+2 0 +3.006854401e+02 +1.300685440e+03 +1.300685440e+03
+13 0 +2.430360815e+02 +1.243036082e+03 +1.243036082e+03
+156 0 +2.430360815e+02 +1.243036082e+03 +1.243036082e+03
+% f evaluations | g evaluations | best noise-free fitness - Fopt (9.780000000000e+00) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.500876093e+02 +3.598676093e+02 +3.598676093e+02
+2 0 +2.913146219e+02 +3.010946219e+02 +3.010946219e+02
+10 0 +2.774749897e+02 +2.872549897e+02 +2.872549897e+02
+156 0 +2.724406422e+02 +2.822206422e+02 +2.822206422e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.491100000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.935930381e+02 +4.427030381e+02 +4.427030381e+02
+2 0 +2.900462102e+02 +4.391562102e+02 +4.391562102e+02
+26 0 +2.735514309e+02 +4.226614309e+02 +4.226614309e+02
+156 0 +2.581823780e+02 +4.072923780e+02 +4.072923780e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.663200000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.231467817e+02 +4.894667817e+02 +4.894667817e+02
+4 0 +3.188622406e+02 +4.851822406e+02 +4.851822406e+02
+5 0 +2.748992211e+02 +4.412192211e+02 +4.412192211e+02
+14 0 +2.231581801e+02 +3.894781801e+02 +3.894781801e+02
+156 0 +2.231581801e+02 +3.894781801e+02 +3.894781801e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-3.053000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.113967216e+02 +2.808667216e+02 +2.808667216e+02
+14 0 +2.843850339e+02 +2.538550339e+02 +2.538550339e+02
+26 0 +2.774290053e+02 +2.468990053e+02 +2.468990053e+02
+262 0 +2.585197818e+02 +2.279897818e+02 +2.279897818e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (3.266500000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.362002883e+02 +6.628502883e+02 +6.628502883e+02
+2 0 +2.907216874e+02 +6.173716874e+02 +6.173716874e+02
+12 0 +2.764944219e+02 +6.031444219e+02 +6.031444219e+02
+190 0 +2.651167855e+02 +5.917667855e+02 +5.917667855e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (5.893000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.266165599e+02 +3.855465599e+02 +3.855465599e+02
+4 0 +3.029321639e+02 +3.618621639e+02 +3.618621639e+02
+6 0 +2.772931434e+02 +3.362231434e+02 +3.362231434e+02
+156 0 +2.729208943e+02 +3.318508943e+02 +3.318508943e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (4.590000000000e+01) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.284939726e+02 +3.743939726e+02 +3.743939726e+02
+7 0 +3.147807586e+02 +3.606807586e+02 +3.606807586e+02
+38 0 +2.600941198e+02 +3.059941198e+02 +3.059941198e+02
+190 0 +2.555880809e+02 +3.014880809e+02 +3.014880809e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (-1.022300000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +2.750456282e+02 +1.728156282e+02 +1.728156282e+02
+11 0 +2.591533175e+02 +1.569233175e+02 +1.569233175e+02
+156 0 +2.591533175e+02 +1.569233175e+02 +1.569233175e+02
+% f evaluations | g evaluations | best noise-free fitness - Fopt (1.498100000000e+02) + sum g_i+ | measured fitness | best measured fitness or single-digit g-values | x1 | x2...
+1 0 +3.619441208e+02 +5.117541208e+02 +5.117541208e+02
+2 0 +3.270713250e+02 +4.768813250e+02 +4.768813250e+02
+5 0 +2.949325834e+02 +4.447425834e+02 +4.447425834e+02
+12 0 +2.765422307e+02 +4.263522307e+02 +4.263522307e+02
+264 0 +2.458202145e+02 +3.956302145e+02 +3.956302145e+02
+364 0 +2.458202145e+02 +3.956302145e+02 +3.956302145e+02

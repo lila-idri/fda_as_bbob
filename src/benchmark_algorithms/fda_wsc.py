@@ -4,7 +4,6 @@ import numpy as np
 
 from scipy.stats import qmc
 from src.fda_v0.hypersphere import Hypersphere
-from src.fda_v0.soco2011_functions import *
 from src.fda_v0.constance import *
 
 

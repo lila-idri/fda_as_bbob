@@ -1,14 +1,13 @@
-This repository contains the reference implementation of FDA-AS used in the paper
-"Fractal Decomposition Method for Comparison of Low-Dimensional Black-Box Optimization".
+## FDA-AS 
 
-To reproduce the results reported in the article, run:
-python analyze_results.py
+This repository contains the reference implementation of **FDA-AS** used in the paper *"Fractal Decomposition Method for Comparison of Low-Dimensional Black-Box Optimization"*.
 
-To reproduce the specific case studies presented in the paper, use the corresponding
-scripts located in the study package.
+### Quick Start
+* **Reproduce article results**:  
+    `python analyze_results.py`
+* **Reproduce specific case studies**:  
+    Use the corresponding scripts located in the `study` package.
+* **Generate new experiments (COCO/BBOB)**:  
+    `python run_experiment.py`
 
-To generate new experiments on the COCO/BBOB benchmark, run:
-python run_experiment.py
-
-In run_experiment.py, users can select the optimization budget and the optimizers
-to benchmark.
+> **Note**: In `run_experiment.py`, users can select the **optimization budget** and the **optimizers** to benchmark.

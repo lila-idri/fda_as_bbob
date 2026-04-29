@@ -99,7 +99,7 @@ w1 = 1 - w2
 
 for j, Cj in enumerate(child_centers):
 
-    # FDA points (formule exacte que TU as donnée)
+    # FDA points
     s1 = Cj + (r_child / np.sqrt(D)) * np.ones(D)
     s2 = Cj - (r_child / np.sqrt(D)) * np.ones(D)
 
@@ -110,14 +110,14 @@ for j, Cj in enumerate(child_centers):
     fs1 = f(s1[0], s1[1])
     fs2 = f(s2[0], s2[1])
 
-    # ---------- PHS (formule FDA correcte) ----------
+    # ---------- PHS  ----------
     g_c  = fC  / dist(Cj, BSF)
     g_s1 = fs1 / dist(s1, BSF)
     g_s2 = fs2 / dist(s2, BSF)
 
     PHS = max(g_c, g_s1, g_s2)
 
-    # ---------- AS (comme TU l'as défini) ----------
+    # ---------- AS ----------
     vals = np.array([fC, fs1, fs2])
     sigma = np.std(vals)
 
